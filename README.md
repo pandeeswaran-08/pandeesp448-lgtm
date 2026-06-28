@@ -5,9 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Backend+Developer;LangChain+%26+LangGraph+Developer;Building+Agentic+AI+Systems;Building+Production+RAG+Apps;LlamaIndex+Developer;Full+Stack+AI+Systems" width="100%"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pandeesp448-lgtm&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/pandeesp448-lgtm?label=Followers&style=flat&color=58a6ff" />
-  <img src="https://img.shields.io/github/repos/pandeesp448-lgtm?label=Repositories&style=flat&color=58a6ff" />
+  <img src="https://komarev.com/ghpvc/?username=pandeeswaran-08&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/pandeeswaran-08?label=Followers&style=flat&color=58a6ff" />
 </p>
 
 </div>
@@ -40,7 +39,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases & Storage:**
@@ -53,7 +51,6 @@
 **DevOps & Tools:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -89,9 +86,9 @@
 
 **Vector Databases:**
 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Weaviate](https://img.shields.io/badge/Weaviate-220052?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-00A060?style=for-the-badge)
 
 </div>
 
@@ -104,8 +101,8 @@
 | **AI Engineering** | LLM Fine-tuning • Prompt Engineering • RAG Architecture • Agent Design • Vector Search |
 | **Backend Development** | RESTful APIs • Microservices • Database Design • Caching Strategies • System Architecture |
 | **AI Frameworks** | LangChain • LlamaIndex • LangGraph • Hugging Face • PyTorch |
-| **DevOps & Cloud** | Docker • Kubernetes • CI/CD • Cloud Deployment • Monitoring & Logging |
-| **Database Technologies** | PostgreSQL • MongoDB • Redis • Vector Databases • Query Optimization |
+| **DevOps & Cloud** | Docker • CI/CD • Cloud Deployment • Monitoring & Logging |
+| **Database Technologies** | PostgreSQL • MongoDB • Redis • ChromaDB • Query Optimization |
 
 ---
 
@@ -130,12 +127,12 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🤖 **AI Resume Analyzer** | ATS Score Analyzer powered by LLMs — helps candidates beat the ATS filter with scoring & recommendations | LangChain, FastAPI, PostgreSQL |
-| 📚 **RAG Chatbot** | Advanced chat interface for PDF analysis using Vector Search & Semantic Retrieval with multiple LLM support | LlamaIndex, Pinecone, OpenAI |
-| 🧠 **Multi-Agent System** | Research Agent + Reviewer Agent — collaborative AI pipeline with specialized workflows | LangGraph, LangChain, FastAPI |
-| 🎤 **AI Interview Assistant** | Mock Interview Coach powered by LLMs with real-time feedback & performance analytics | OpenAI, FastAPI, React |
-| ⚡ **FastAPI AI Backend** | Production-ready REST APIs with AI integration layer, rate limiting & caching | FastAPI, Docker, Redis |
-| 🔗 **LangGraph Orchestrator** | Complex multi-step workflow orchestration with state management & conditional routing | LangGraph, LangChain |
+| 🏫 **Campus Nexus ERP** | Full-featured College ERP with student profiles, quiz uploads, attendance export & admin dashboard | MERN Stack, React, Node.js, MongoDB |
+| 🤖 **Multi-Modal Industrial AI** | Production AI assistant combining safety detection, RAG pipeline & multi-agent workflows | FastAPI, YOLOv8, LangChain, LangGraph, ChromaDB |
+| 📡 **WiFi Human Presence Detection** | Real-time human presence detection using WiFi CSI signals with a live React dashboard | ESP32, TensorFlow.js, React 19, Prisma, ml-knn |
+| 🎓 **AI Proctoring System** | AI-powered cheating detection system with gaze tracking and object detection | FastAPI, MediaPipe, YOLOv8, React |
+| 📚 **Local RAG System** | NotebookLM-style RAG chatbot running fully locally with Gemini API & ChromaDB | Gemini API, ChromaDB, HuggingFace, Streamlit |
+| 🧪 **AI Test Case Generator** | Automated test case generation with n8n-style workflow UI | FastAPI, Ollama, llama3.2, Pydantic v2 |
 
 ---
 
@@ -144,7 +141,7 @@
 ### Currently Exploring:
 - Advanced Agent Architectures (Reflection, Planning Agents)
 - Retrieval-Augmented Generation optimization
-- Model Fine-tuning & Custom LLM adaptation
+- Model Quantisation (running LLMs on CPU-only hardware)
 - Semantic Kernel & OpenAI Function Calling
 - LLM Observability & Monitoring
 - Prompt Optimization Techniques
@@ -160,8 +157,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pandeesp448-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=percentile" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeesp448-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pandeeswaran-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=percentile" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeeswaran-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </div>
 
 ---
@@ -169,7 +166,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pandeesp448-lgtm&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=pandeeswaran-08&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -177,7 +174,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pandeesp448-lgtm&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pandeeswaran-08&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
 </div>
 
 ---
@@ -185,17 +182,17 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeesp448-lgtm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeeswaran-08&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
 </div>
 
 ---
 
-## 💼 Professional Experience Highlights
+## 💼 Professional Experience
 
-- **AI Engineer** → Building production-grade AI systems and agentic applications
-- **Backend Developer** → Architecting scalable APIs and microservices
-- **Full Stack Developer** → End-to-end system design and implementation
-- **Open Source Contributor** → Contributing to AI frameworks and tools
+| Role | Organization | Duration |
+|------|-------------|----------|
+| 🤖 **Automation Apprentice** | LMW (Lakshmi Machine Works) | Internship |
+| 🎓 **B.Tech AI & Data Science** | NSCET, Anna University | 2022 – 2026 |
 
 ---
 
@@ -207,8 +204,9 @@
 | 🧩 | Build & Deploy Multi-Agent Systems | 🔄 In Progress |
 | 🔌 | Master MCP Architecture & Tool Ecosystems | 🔄 In Progress |
 | 🌍 | Contribute to Open Source AI Projects | ✅ Active |
+| 🎬 | Grow YouTube Channel (Tanglish AI Content) | 🔄 In Progress |
+| 📝 | Publish Technical Articles on LinkedIn | 🔄 In Progress |
 | 💡 | Launch an AI SaaS Product | 📋 Planning |
-| 📖 | Publish Technical Articles on AI Engineering | 📋 Planning |
 | 🎓 | Build AI Engineering Learning Resources | 🔄 In Progress |
 
 ---
@@ -217,8 +215,11 @@
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-pandeesp448--lgtm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandeesp448-lgtm)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-pandeeswaranp08-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeeswaranp08)
+  [![GitHub](https://img.shields.io/badge/GitHub-pandeeswaran--08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandeeswaran-08)
+  [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-pandeeswaran--08-FFD21E?style=for-the-badge)](https://huggingface.co/pandeeswaran-08)
+  [![College Email](https://img.shields.io/badge/College%20Email-pandeeswarnp__ai@nscet.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeeswarnp_ai@nscet.org)
+  [![Gmail](https://img.shields.io/badge/Gmail-pandeesp448@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeesp448@gmail.com)
 
 </div>
 
